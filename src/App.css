@@ -78,6 +78,9 @@
 .min-vh-100 {
   min-height: 100vh;
 }
+ul{
+  padding-left: unset !important;
+}
 
 .mxw-515 {
   max-width: 515px;

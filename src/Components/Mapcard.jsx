@@ -69,7 +69,7 @@ export const Mapcard = () => {
             <div className={`card3 p-4 ${card2.padding } ${card2.mxw}`}>
                 <img src={card2.img}/>
                 <h2 className=' ART m-0'>{card2.heading}</h2>
-                <p className={`Complete-the-art ${card2.mxw} `}>{card2.para} </p>
+                <p className={`Complete-the-art mxw-347 ${card2.mxw} `}>{card2.para} </p>
 
             </div>
         </div>
