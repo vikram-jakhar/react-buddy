@@ -161,6 +161,7 @@ ul{
   cursor: pointer;
   border: none;
   transition: all 500ms linear;
+  margin-bottom: 15rem !important;
 }
 
 .btn-main:hover {
@@ -329,6 +330,39 @@ ul{
   font-family: var(--ff-p);
   font-size: var(--fs-50);
   font-weight: var(--fw-600);
+}
+.Pruduct {
+  color: var(--white);
+  font-family: var(--ff-p);
+  font-size: var(--fs-18);
+  font-weight: var(--fw-400);
+}
+
+.Prime {
+  color: var(--white);
+  font-family: var(--ff-p);
+  font-size: var(--fs-30);
+  font-weight: var(--fw-600);
+}
+
+.bs-card {
+  background: #031227 !important;
+}
+
+.container-accordion {
+  max-width: 830px !important;
+}
+
+.fd-col {
+  flex-direction: column;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.pt-32 {
+  padding-top: 32px;
 }
 @media (max-width:992px) {
   .sm-992{

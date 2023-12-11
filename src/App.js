@@ -4,6 +4,7 @@ import Header from './Components/Header';
 import Section1 from './Components/Section1';
 import { Mapcard } from './Components/Mapcard';
 import Rodmap from './Components/Rodmap';
+import Faq from './Components/Faq';
 function App() {
   return (
  <div>
@@ -11,6 +12,7 @@ function App() {
     <Section1 />
     <Mapcard/>
     <Rodmap/>
+    <Faq/>
  </div>
   );
 }

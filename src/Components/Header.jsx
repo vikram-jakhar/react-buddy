@@ -28,7 +28,7 @@ const Header = () => {
                         <h1 className=" fs-xxl fw-normal white mxw-515">Vitae nunc,<span className=" fw-bold  "> blandit a odio</span></h1>
                         <p className=" fs-2sm fw-medium white opacity-75 mxw-488 pt-3 pb-5 ">Semper in egestas risus id tempus. Pellentesque dolor eros sollicitudin feugiat ut
                             odio semper. Mattis fermentum eget ut vestibulum dolor diam</p>
-                        <button className="btn-main fs-md fw-medium">Get Started</button>
+                        <button className="btn-main fs-md fw-medium ">Get Started</button>
                     </div>
                 </div>
             </div>
